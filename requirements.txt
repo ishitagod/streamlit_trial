@@ -1,5 +1,10 @@
+streamlit
 langchain
 huggingface_hub
-langchain_core
+sentence-transformers
+pickle-mixin
+nest-asyncio
+llama_parse
+qdrant-client
+unstructured_inference
 pickle
-langchain.memory
