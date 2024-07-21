@@ -5,6 +5,4 @@ sentence-transformers
 pickle-mixin
 nest-asyncio
 llama_parse
-qdrant-client
-unstructured_inference
 pickle
